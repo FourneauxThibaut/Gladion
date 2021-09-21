@@ -1,0 +1,188 @@
+.ztop-62{
+    top: 62%;
+}
+.zleft-31{
+    left: 31%;
+}
+.zleft-54{
+    left: 54%;
+}
+@media (max-width: 1560px){
+    .responsive-connect{
+        font-size: 0.9rem !important;
+    }
+}
+@media (max-width: 1430px){
+    .responsive-connect{
+        font-size: 0.8rem !important;
+    }
+    .responsive-nav{
+        font-size: 0.72rem !important;
+    }
+    .responsive-logo{
+        margin-top: 1rem;
+        height: 3.5rem !important;
+    }
+    .responsive-logo-text{
+        margin-top: 1.8rem !important;
+        font-size: 2.3rem !important;
+    }
+}
+@media (max-width: 1300px){
+    .responsive-connect{
+        font-size: 0.7rem !important;
+    }
+}
+@media (max-width: 1240px){
+    .responsive-connect{
+        display: none;
+    }
+    .responsive-text-center{
+        text-align: center !important;
+    }
+    .responsive-flex{
+        flex-direction: column;
+    }
+    .responsive-width{
+        width: 100% !important;
+    }
+    .responsive-space-1{
+        margin-bottom: 10px;
+    }
+    .responsive-space-2{
+        margin-bottom: 20px;
+    }
+    .responsive-space-3{
+        margin-bottom: 30px;
+    }
+    .responsive-space-4{
+        margin-bottom: 40px;
+    }
+    .responsive-footer{
+        background-color: #f78b89;
+    }
+}
+@media (max-width: 1160px){
+    .responsive-nav{
+        font-size: 0.4rem;
+        padding-left: 0.25rem !important;
+        padding-right: 0.25rem !important;
+    }
+    .responsive-logo{
+        margin-top: 1.2rem;
+        height: 3rem !important;
+    }
+    .responsive-logo-text{
+        margin-top: 2rem !important;
+        font-size: 1.9rem !important;
+    }
+}
+@media (max-width: 1060px){
+    .responsive-nav{
+        font-size: 0.4rem;
+        padding-left: 0.1rem !important;
+        padding-right: 0.1rem !important;
+    }
+    .responsive-logo{
+        margin-top: 1.3rem;
+        height: 2.7rem !important;
+    }
+    .responsive-logo-text{
+        margin-top: 2.2rem !important;
+        font-size: 1.7rem !important;
+    }
+}
+@media (max-width: 980px){
+    .responsive-logo-text{
+        display: none;
+    }
+}
+@media (max-width: 845px){
+    .responsive-nav{
+        padding-left: 0.05rem !important;
+        padding-right: 0.05rem !important;
+    }
+    .responsive-logo{
+        margin-top: 1.35rem;
+        height: 2.7rem !important;
+    }
+}
+@media (max-width: 845px){
+    .responsive-hidden{
+        display: none;
+    }
+    .responsive-logo{
+        margin-top: 1rem;
+        height: 5rem !important;
+    }
+    .responsive-logo-text{
+        display: inline;
+        font-size: 3rem !important;
+        line-height: 1 !important;
+    }
+    .logo{
+        margin-left: 120px !important;
+    }
+    .responsive-center{
+        margin: 0 auto;
+    }
+    .responsive-text-center{
+        text-align: center !important;
+    }
+    .responsive-flex{
+        flex-direction: column;
+    }
+    .responsive-width{
+        width: 100% !important;
+    }
+    .responsive-space-1{
+        margin-bottom: 10px;
+    }
+    .responsive-space-2{
+        margin-bottom: 20px;
+    }
+    .responsive-space-3{
+        margin-bottom: 30px;
+    }
+    .responsive-space-4{
+        margin-bottom: 40px;
+    }
+    .responsive-footer{
+        background-color: #f78b89;
+    }
+}
+@media (max-width: 600px){
+    .responsive-hidden{
+        display: none;
+    }
+    .logo{
+        margin-left: 120px !important;
+    }
+    .responsive-center{
+        margin: 0 auto;
+    }
+    .responsive-text-center{
+        text-align: center !important;
+    }
+    .responsive-flex{
+        flex-direction: column;
+    }
+    .responsive-width{
+        width: 100% !important;
+    }
+    .responsive-space-1{
+        margin-bottom: 10px;
+    }
+    .responsive-space-2{
+        margin-bottom: 20px;
+    }
+    .responsive-space-3{
+        margin-bottom: 30px;
+    }
+    .responsive-space-4{
+        margin-bottom: 40px;
+    }
+    .responsive-footer{
+        background-color: #f78b89;
+    }
+}
